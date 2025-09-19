@@ -127,20 +127,20 @@ function ServiceCard({ title, description, icon, index, bgImage, bgVideo, link }
 }
 
 // 3. Testimonials Component (UPDATED WITH ANIMATED TESTIMONIALS)
-const testimonialsData = [
-    {
-      quote: "Partnering with Virelity has been a game-changer! Their strategy and creativity helped me shape my brand in a way that feels authentic and powerful.",
-      name: "Suraj Jamani",
-      designation: "Producer",
-      src: "/suraj.png",
-    },
-    {
-      quote: "I wanted to reimagine how people shop online, and CASA made that vision real. The swipe-to-shop experience feels fresh, fun, and effortless—turning fashion discovery into something truly exciting!",
-      name: "Steve Vora",
-      designation: "Founder",
-      src: "/steve_logo.png",
-    },
-];
+// const testimonialsData = [
+//     {
+//       quote: "Partnering with Virelity has been a game-changer! Their strategy and creativity helped me shape my brand in a way that feels authentic and powerful.",
+//       name: "Suraj Jamani",
+//       designation: "Producer",
+//       src: "/suraj.png",
+//     },
+//     {
+//       quote: "I wanted to reimagine how people shop online, and CASA made that vision real. The swipe-to-shop experience feels fresh, fun, and effortless—turning fashion discovery into something truly exciting!",
+//       name: "Steve Vora",
+//       designation: "Founder",
+//       src: "/steve_logo.png",
+//     },
+// ];
 
 // --- MAIN PAGE COMPONENT ---
 
