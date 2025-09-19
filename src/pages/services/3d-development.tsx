@@ -370,7 +370,7 @@ const ThreeDDevelopmentService = () => {
         <div className="min-h-screen bg-background relative">
             {/* Navbar */}
             <Navbar 
-                title="3D Development Services - Virelity.com"
+                title="3D Development Services - casashop.tech"
                 description="Professional 3D modeling, visualization, and interactive 3D development services. Create stunning 3D content for your business."
             />
             

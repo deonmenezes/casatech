@@ -224,7 +224,7 @@ const DigitalMarketingService = () => {
         <div className="min-h-screen bg-background relative overflow-hidden">
             {/* Navbar */}
             <Navbar 
-                title="Digital Marketing Services - Virelity.com"
+                title="Digital Marketing Services - casashop.tech"
                 description="Comprehensive digital marketing services including SEO, PPC, social media marketing, and content marketing to drive business growth."
             />
             

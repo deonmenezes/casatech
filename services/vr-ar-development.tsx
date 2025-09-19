@@ -203,7 +203,7 @@ const VRARDevelopmentService = () => {
         <div className="min-h-screen bg-background">
             {/* Navbar */}
             <Navbar
-                title="VR/AR Development Services - Virelity.com"
+                title="VR/AR Development Services - casashop.tech"
                 description="Professional VR and AR development services. Create immersive virtual and augmented reality experiences that transform user engagement and business operations."
             />
 

@@ -200,7 +200,7 @@ const MobileAppsService = () => {
         <div className="min-h-screen bg-background">
             {/* Navbar */}
             <Navbar 
-                title="Mobile App Development - Virelity.com"
+                title="Mobile App Development - casashop.tech"
                 description="Professional mobile app development services for iOS and Android. Create powerful, user-friendly mobile applications that drive business growth."
             />
             

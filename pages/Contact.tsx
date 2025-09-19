@@ -10,7 +10,7 @@ const Contact = () => {
     {
       icon: <Mail className="h-6 w-6 text-primary" />,
       title: "Email Us",
-      details: "deon.menezes@virelity.com",
+      details: "deon.menezes@casashop.tech",
       description: "We'll respond within 24 hours",
     },
     {
@@ -182,7 +182,7 @@ const Contact = () => {
             <div className="max-w-3xl mx-auto space-y-6">
               {[
                 {
-                  q: "What services does Virelity.com offer?",
+                  q: "What services does casashop.tech offer?",
                   a: "We offer a comprehensive range of digital services including web development, mobile app development, UI/UX design, branding, and digital strategy consulting.",
                 },
                 {

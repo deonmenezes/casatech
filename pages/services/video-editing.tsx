@@ -200,7 +200,7 @@ const VideoEditingService = () => {
         <div className="min-h-screen bg-background relative overflow-hidden">
             {/* Navbar */}
             <Navbar 
-                title="Video Editing Services - Virelity.com"
+                title="Video Editing Services - casashop.tech"
                 description="Professional video editing services including corporate videos, promotional content, and cinematic productions with stunning visual effects."
             />
             

@@ -201,7 +201,7 @@ const WebDevelopmentService = () => {
         <div className="min-h-screen bg-background">
             {/* Navbar */}
             <Navbar 
-                title="Web Development Services - Virelity.com"
+                title="Web Development Services - casashop.tech"
                 description="Professional web development services including responsive websites, web applications, and e-commerce solutions built with modern technologies."
             />
             

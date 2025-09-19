@@ -84,7 +84,7 @@ const Team = () => {
               </span>
               <h1 className="text-4xl md:text-5xl font-bold mb-6">Meet The Visionaries</h1>
               <p className="text-xl text-muted-foreground">
-                The talented individuals behind Virelity.com who bring creativity, expertise, and passion to every project.
+                The talented individuals behind casashop.tech who bring creativity, expertise, and passion to every project.
               </p>
             </div>
           </div>
@@ -143,7 +143,7 @@ const Team = () => {
               >
                 <h2 className="text-3xl font-bold">Our Culture</h2>
                 <p className="text-muted-foreground">
-                  At Virelity.com, we believe that great work comes from a culture that values creativity, collaboration, and continuous learning.
+                  At casashop.tech, we believe that great work comes from a culture that values creativity, collaboration, and continuous learning.
                 </p>
                 <p className="text-muted-foreground">
                   We foster an environment where ideas can flourish, where team members are empowered to take risks and innovate, and where we celebrate our successes together.

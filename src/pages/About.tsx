@@ -111,7 +111,7 @@ const About = () => {
                 >
                   <img
                     src="/about.JPG"
-                    alt="Virelity.com Office"
+                    alt="casashop.tech Office"
                     className="w-full max-h-[420px] object-cover rounded-lg shadow-lg"
                   />
                 </motion.div>
@@ -127,7 +127,7 @@ const About = () => {
               >
                 <h2 className="text-3xl font-bold">Who We Are</h2>
                 <p className="text-muted-foreground">
-                  Founded in 2018, Virelity.com has been at the forefront of digital innovation, helping businesses transform their online presence and leverage technology to achieve their goals.
+                  Founded in 2018, casashop.tech has been at the forefront of digital innovation, helping businesses transform their online presence and leverage technology to achieve their goals.
                 </p>
                 <p className="text-muted-foreground">
                   Our team of expert designers, developers, and strategists combines creativity with technical expertise to deliver solutions that not only look great but perform exceptionally well.

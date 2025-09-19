@@ -48,7 +48,7 @@ export const HeroSlider = () => {
         { text: "Increase productivity by", value: 100, suffix: "%", description: "through AI integration" },
         { text: "Boost sales by", value: 200, suffix: "%", description: "with our digital solutions" }
       ],
-      description: "Virelity.com delivers cutting-edge AI agents, web solutions, mobile apps, and digital strategies that drive growth and innovation for modern businesses.",
+      description: "casashop.tech delivers cutting-edge AI agents, web solutions, mobile apps, and digital strategies that drive growth and innovation for modern businesses.",
       video: "/videos/homepage.mp4",
       poster: "/virelity_navbar.png",
       buttonText: "Explore AI Solutions",

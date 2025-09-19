@@ -205,7 +205,7 @@ const ARVRMarketingService = () => {
         <div className="min-h-screen bg-background">
             {/* Navbar */}
             <Navbar
-                title="AR/VR Marketing Services - Virelity.com"
+                title="AR/VR Marketing Services - casashop.tech"
                 description="Revolutionary AR and VR marketing solutions that transform customer engagement and drive conversions through immersive brand experiences."
             />
 

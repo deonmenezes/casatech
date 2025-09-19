@@ -16,7 +16,7 @@ export const Footer = () => {
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-10">
           <div>
             <div className="mb-4">
-              <img src="/virelity_logo_transparent.png" alt="Virelity.com Logo" className="h-12 mb-2" />
+              <img src="/virelity_logo_transparent.png" alt="casashop.tech Logo" className="h-12 mb-2" />
             </div>
             <p className="text-gray-300 mb-6">
               Creating innovative digital experiences that transform businesses and delight users.
@@ -96,12 +96,12 @@ export const Footer = () => {
               <li className="flex items-center text-gray-300">
                 <Mail className="w-5 h-5 mr-3 text-primary" />
                 <a
-                  href="https://mail.google.com/mail/?view=cm&fs=1&to=deon.menezes@virelity.com"
+                  href="https://mail.google.com/mail/?view=cm&fs=1&to=deon.menezes@casashop.tech"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="hover:text-primary transition-colors duration-300"
                 >
-                  deon.menezes@virelity.com
+                  deon.menezes@casashop.tech
                 </a>
               </li>
               <li className="flex items-center text-gray-300">
@@ -145,7 +145,7 @@ export const Footer = () => {
         </div>
 
         <div className="border-t border-white/10 mt-12 pt-6 flex flex-col md:flex-row justify-between items-center">
-          <p className="text-gray-400 text-sm">&copy; 2025 Virelity.com. All rights reserved.</p>
+          <p className="text-gray-400 text-sm">&copy; 2025 casashop.tech. All rights reserved.</p>
           <div className="flex space-x-6 mt-4 md:mt-0">
             <a href="#privacy" className="text-gray-400 hover:text-primary text-sm transition-colors duration-300">Privacy Policy</a>
             <a href="#terms" className="text-gray-400 hover:text-primary text-sm transition-colors duration-300">Terms & Conditions</a>
