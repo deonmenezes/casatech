@@ -16,7 +16,7 @@ const Contact = () => {
     {
       icon: <Phone className="h-6 w-6 text-primary" />,
       title: "Call Us",
-      details: "+918104796542",
+      details: "+919082257633",
       description: "Mon-Fri from 9am to 6pm",
     },
     {
@@ -28,7 +28,7 @@ const Contact = () => {
     {
       icon: <MessageSquare className="h-6 w-6 text-primary" />,
       title: "WhatsApp",
-      details: "+918104796542",
+      details: "+919082257633",
       description: "Chat anytime",
     },
   ];

@@ -4,7 +4,7 @@ import { Calendar, Clock, Phone, MessageCircle } from 'lucide-react';
 
 export const WhatsAppBooking = () => {
   const [isOpen, setIsOpen] = useState(false);
-  const phoneNumber = '918104796542';
+  const phoneNumber = '919082257633';
 
   const openWhatsApp = (message: string) => {
     const encodedMessage = encodeURIComponent(message);

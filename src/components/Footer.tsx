@@ -6,7 +6,7 @@ import { HoverImageEffect } from "@/components/custom/HoverImageEffect";
 export const Footer = () => {
   const openWhatsAppBooking = () => {
     const message = "Hello! I'd like to book a 15-minute free consultation call. Please let me know your available time slots. Thank you!";
-    const phoneNumber = "918104796542";
+    const phoneNumber = "919082257633";
     window.open(`https://wa.me/${phoneNumber}?text=${encodeURIComponent(message)}`, '_blank');
   };
 
@@ -87,7 +87,7 @@ export const Footer = () => {
               </li>
               <li className="flex items-center text-gray-300">
                 <Phone className="w-5 h-5 mr-3 text-primary" />
-                <span>+918104796542</span>
+                <span>+919082257633</span>
               </li>
               <li className="flex items-center text-gray-300">
                 <Phone className="w-5 h-5 mr-3 text-primary" />
@@ -118,7 +118,7 @@ export const Footer = () => {
               <li className="flex items-center text-gray-300">
                 <MessageSquare className="w-5 h-5 mr-3 text-primary" />
                 <a 
-                  href={`https://wa.me/918104796542`}
+                  href={`https://wa.me/919082257633`}
                   className="hover:text-primary transition-colors duration-300"
                 >
                   WhatsApp Support

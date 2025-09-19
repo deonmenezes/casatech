@@ -128,7 +128,7 @@ export const HeroSlider = () => {
 
   const openWhatsAppBooking = () => {
     const message = "Hello! I'd like to book a 15-minute free consultation call. Please let me know your available time slots. Thank you!";
-    const phoneNumber = "918104796542";
+    const phoneNumber = "919082257633";
     window.open(`https://wa.me/${phoneNumber}?text=${encodeURIComponent(message)}`, '_blank');
   };
 
