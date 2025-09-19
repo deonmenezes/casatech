@@ -334,13 +334,13 @@ const Index = () => {
             </div>
           </motion.section>
           
-          {/* Testimonials Section - NOW USING ANIMATED TESTIMONIALS */}
+          {/* Testimonials Section - NOW USING ANIMATED TESTIMONIALS
           <section className="py-20 bg-vision-dark">
             <div className="container">
               <h2 className="text-3xl md:text-4xl font-bold text-center mb-12 text-white">Client Success Stories</h2>
               <AnimatedTestimonials testimonials={testimonialsData} autoplay={true} />
             </div>
-          </section>
+          </section> */}
 
           {/* Featured Projects Section */}
           <motion.section
